@@ -1,11 +1,5 @@
 ﻿--Create database MANAGERBOOKS
 
---drop table History
---drop table Message
---drop table Employee
---drop table fines
---drop table BOOKS
---drop table ACCOUNT
 
 Create table ACCOUNT (
 userName nvarchar(100),
