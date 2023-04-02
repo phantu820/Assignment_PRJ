@@ -6,7 +6,8 @@ Project PRJ301
 - Phan Viết Tú
 - Nguyễn Hữu Thắng
 
-# Chủ đề frontend web film
+# Chủ đề 
+Ứng dụng quản lí sách trong thư viện
 
 # Tech
 - Java Servlet, JSTL
