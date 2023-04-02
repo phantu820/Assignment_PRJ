@@ -7,8 +7,7 @@ Project PRJ301
 - Nguyễn Hữu Thắng
 
 # Chủ đề 
-Ứng dụng quản lí sách trong thư viện
-
+Website quản lí sách trong thư viện
 # Tech
 - Java Servlet, JSTL
 - JDBC
