@@ -1,6 +1,6 @@
 # Assignment_PRJ
 
-Project PRJ301
+Project PRJ301-Java Web
 
 # Thành viên
 - Phan Viết Tú
@@ -9,6 +9,6 @@ Project PRJ301
 # Chủ đề 
 Website quản lí sách trong thư viện
 # Tech
-- Java Servlet, JSTL
+- Java Servlet, JSTL, JSP
 - JDBC
-- HTML,CSS
+- HTML,CSS, Boostrap
